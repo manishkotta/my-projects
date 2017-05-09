@@ -1,0 +1,6 @@
+c:\users\manis\onedrive\documents\visual studio 2015\Projects\SaveThePrincessBot\SaveThePrincessBot\bin\Debug\SaveThePrincessBot.exe.config
+c:\users\manis\onedrive\documents\visual studio 2015\Projects\SaveThePrincessBot\SaveThePrincessBot\bin\Debug\SaveThePrincessBot.exe
+c:\users\manis\onedrive\documents\visual studio 2015\Projects\SaveThePrincessBot\SaveThePrincessBot\bin\Debug\SaveThePrincessBot.pdb
+c:\users\manis\onedrive\documents\visual studio 2015\Projects\SaveThePrincessBot\SaveThePrincessBot\obj\Debug\SaveThePrincessBot.csprojResolveAssemblyReference.cache
+c:\users\manis\onedrive\documents\visual studio 2015\Projects\SaveThePrincessBot\SaveThePrincessBot\obj\Debug\SaveThePrincessBot.exe
+c:\users\manis\onedrive\documents\visual studio 2015\Projects\SaveThePrincessBot\SaveThePrincessBot\obj\Debug\SaveThePrincessBot.pdb
